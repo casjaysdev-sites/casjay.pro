@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/casjay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://casjay.net
+  * I am casjay (https://keybase.io/casjay) on keybase.
+  * I have a public key ASCQ8OVTOM-_O6RymzPbBUzzFJvI_0QasSmUI20jtn4H7Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bef71766e2ed9ebf52030154c3f14292ff04a506c723166188d3896070d0c5020a",
+      "host": "keybase.io",
+      "kid": "012090f0e55338cfbf3ba4729b33db054cf3149bc8ff441ab12994236d23b67e07ec0a",
+      "uid": "7e6362e006067364c73aea3200534100",
+      "username": "casjay"
+    },
+    "merkle_root": {
+      "ctime": 1537542805,
+      "hash": "a22f15e3ce2acad057b5ced9aca52372612c04b5ede7f7a08d71e58bfdb4f0fc4112caaca51ed387c63130ea3340335ddd0f53938931d7cf6251bb4fd1b57c92",
+      "hash_meta": "5a9f6fc358f2995da9944feac345d3dc688d72a74b8ca7175254fb331dc64d9e",
+      "seqno": 3643034
+    },
+    "service": {
+      "entropy": "nYP/fNew+ZW3ZL45aBDII5di",
+      "hostname": "casjay.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1537542879,
+  "expire_in": 504576000,
+  "prev": "a69211f0fdde536965216d3f6cde5f7ab0c0315062212521c2c972cedc6ba4bd",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkPDlUzjPvzukcpsz2wVM8xSbyP9EGrEplCNtI7Z+B+wKp3BheWxvYWTESpcCHMQgppIR8P3eU2llIW0/bN5ferDAMVBiISUhwslyztxrpL3EIDEHyoDxHkSZymOEW55MFLRF4RzilVAi+PzSLpJoON2sAgHCo3NpZ8RAqLygmQXKHPd2wMOryET/2IsBj0fk+s5YuwUF9IJCxdaJxMDstPIpiogyiEXcDauHJ/EQKJ8aO52wgLy5m8MWAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKstwIi3IqLNAnQJ2Z8LGTDgJEr8DK2s40Ns8//XYhMho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/casjay
+
+==================================================================
