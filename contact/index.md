@@ -5,7 +5,7 @@ permalink: /contact
 weight: 5
 ---
 **E-Mail:**  
-[CasjaysDev@casjay.net](mailto:CasjaysDev@casjay.net)  
+[CasjaysDev@casjay.pro](mailto:CasjaysDev@casjay.pro)  
   
 **Phone:**  
 (518) 712-4338  

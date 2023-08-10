@@ -4,7 +4,7 @@ https://keybase.io/casjay
 
 I hereby claim:
 
-  * I am an admin of https://casjay.net
+  * I am an admin of https://casjay.pro
   * I am casjay (https://keybase.io/casjay) on keybase.
   * I have a public key ASCQ8OVTOM-_O6RymzPbBUzzFJvI_0QasSmUI20jtn4H7Ao
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "nYP/fNew+ZW3ZL45aBDII5di",
-      "hostname": "casjay.net",
+      "hostname": "casjay.pro",
       "protocol": "https:"
     },
     "type": "web_service_binding",
